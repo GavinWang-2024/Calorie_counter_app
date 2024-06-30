@@ -20,7 +20,7 @@ Tracks daily calorie intake and providies nutritional information for meals.
 
 ### Built With
 - Python
-- Django
+- Node.js
 - React
 - PostgreSQL
 
