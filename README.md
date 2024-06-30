@@ -7,7 +7,6 @@
 
 ## Table of Contents
 - [About The Project](#about-the-project)
-  - [Built With](#built-with)
   - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -18,11 +17,6 @@
 
 Tracks daily calorie intake and providies nutritional information for meals.
 
-### Built With
-- Python
-- Node.js
-- React
-- PostgreSQL
 
 ### Features
 - **User Authentication**: Secure user registration and login.
