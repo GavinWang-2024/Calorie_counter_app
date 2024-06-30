@@ -1,3 +1,6 @@
+<img width="1607" alt="Screenshot 2024-06-30 at 2 50 29 PM" src="https://github.com/GavinWang-2024/Calorie_counter_app/assets/169739616/c53fe9ee-5537-44f2-8e94-9f3c4aa93361">
+
+
 # Calorie Counter App
 
 ![License](https://img.shields.io/badge/license-MIT-green)
