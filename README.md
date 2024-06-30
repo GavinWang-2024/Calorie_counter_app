@@ -9,7 +9,6 @@
 - [About The Project](#about-the-project)
   - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
 
@@ -24,16 +23,9 @@ Tracks daily calorie intake and providies nutritional information for meals.
 - **Calorie Tracking**: Track daily calorie intake.
 - **Meal Logging**: Log meals with detailed nutrition facts.
 - **Progress Monitoring**: Monitor weight and nutrition progress over time.
-
   
   
 ## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- Node.js
-- PostgreSQL
 
 ### Installation
 
