@@ -13,7 +13,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Roadmap](#roadmap)
 
 ## About The Project
 
@@ -69,12 +68,3 @@ Tracks daily calorie intake and providies nutritional information for meals.
 2. Search for foods in the database and log your meals.
 
 3.Track your daily calorie intake and monitor your progress over time.
-
-## Roadmap
- -Add more detailed nutritional data.
- 
- -Implement social sharing features.
- 
- -Integrate with wearable fitness devices.
- 
- -Add multi-language support.
