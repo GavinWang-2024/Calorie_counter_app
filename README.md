@@ -30,23 +30,10 @@ Tracks daily calorie intake and providies nutritional information for meals.
 ### Installation
 
 1. Clone the repo
-```git clone https://github.com/GavinWang-2024/Calorie_counter_app.git```
+git clone https://github.com/GavinWang-2024/Calorie_counter_app.git
 
-2. Install backend dependencies
-```pip install -r requirements.txt```
-
-3. Install frontend dependencies
-```npm install```
-
-4. Set up PostgreSQL database
-```# Create a database and update the DATABASE_URL in settings.py```
-
-5. Run migrations
-```python manage.py migrate```
-
-6. Start the development server
-```python manage.py runserver```
-
+2. Open index.html in Google
+   
 ## Usage
 
 1. Register or log in to your account.
